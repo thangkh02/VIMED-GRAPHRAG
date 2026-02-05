@@ -1,0 +1,1124 @@
+{
+  "nodes": [
+    {
+      "id": "disease:benh-than-man",
+      "name": "Bệnh thận mạn",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000000",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "other:cac-bat-thuong-ve-cau-truc-hoac-chuc-nang-cua-than",
+      "name": "các bất thường về cấu trúc hoặc chức năng của thận",
+      "coarse_label": "OTHER",
+      "fine_label": "Definition",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000000",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-ly-mach-mau-lon",
+      "name": "Bệnh lý mạch máu lớn",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-cau-than",
+      "name": "Bệnh cầu thận",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-ly-than",
+      "name": "Bệnh lý thận",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ung-thu",
+      "name": "Ung thư",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ton-thuong-than-cap",
+      "name": "Tổn thương thận cấp",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:tu-vong",
+      "name": "Tử vong",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "symptom:roi-loan",
+      "name": "Rối loạn",
+      "coarse_label": "SYMPTOM",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ton-thuong-than",
+      "name": "tổn thương thận",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-than",
+      "name": "bệnh thận",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "drug:thuoc-ieu-tri-ung-thu",
+      "name": "thuốc điều trị ung thư",
+      "coarse_label": "DRUG",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:leukemia",
+      "name": "Leukemia",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:nhiem-khu-an",
+      "name": "nhiễm khu ẩn",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "symptom:giam-the-tich",
+      "name": "giảm thể tích",
+      "coarse_label": "SYMPTOM",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ngo-oc-thuoc",
+      "name": "ngộ độc thuốc",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 17,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:a-u-tuy-xuong",
+      "name": "Đa u tủy xương",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-th-an-do-a-u-t-uy-xuong",
+      "name": "bệnh th ận do đa u t ủy xương",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:amyloidosis",
+      "name": "Amyloidosis",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:tttc-do-giam-the-tich",
+      "name": "TTTC do giảm thể tích",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:h-oi-ch-ung-fanconi",
+      "name": "h ội ch ứng Fanconi",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:tttc-do-tang-can-xi-mau",
+      "name": "TTTC do tăng can xi máu",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:vct-mang-tang-sinh-type-1",
+      "name": "VCT màng tăng sinh type 1",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:lymphoma-tttc-do-hoi-chung-tieu-khoi-u-va-giam-the-tich",
+      "name": "Lymphoma TTTC do hội chứng tiêu khối u và giảm thể tích",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-u-ong-ti-et-ni-eu-do-t-ac-nghen",
+      "name": "Bệnh đư ờng ti ết ni ệu do t ắc nghẽn",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        },
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-ly-tham-nhiem",
+      "name": "bệnh lý thâm nhiễm",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-than-t-on-th-uong-t-oi-thi-eu-hodgkin",
+      "name": "bệnh thận t ổn th ương t ối thi ểu (Hodgkin)",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:vct-mang-tang-sinh-type-1-u-lympho-non-hodgkin",
+      "name": "VCT màng tăng sinh type 1 (u lympho non-Hodgkin)",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ung-thu-t-e-bao-than",
+      "name": "Ung thư t ế bào thận",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ngo-oc-thuoc-uc-ch-e-yeu-t-o-tang-tru-ong-n-oi-m-ach-anti-vegf",
+      "name": "Ngộ độc thuốc ức ch ế yếu t ố tăng trư ởng n ội m ạch (Anti VEGF)",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-than-mang",
+      "name": "bệnh thận màng",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ung-thu-ph-oi-au-co",
+      "name": "Ung thư ph ổi, đầu cổ",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ngo-oc-platinum",
+      "name": "Ngộ độc Platinum",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:siadh",
+      "name": "SIADH",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:viem-cau-than-mang",
+      "name": "viêm cầu thận màng",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:ung-thu-u",
+      "name": "Ung thư đư �",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    },
+    {
+      "id": "disease:benh-th-an",
+      "name": "bệnh th ận",
+      "coarse_label": "DISEASE",
+      "fine_label": "",
+      "aliases": [],
+      "description": "",
+      "provenance": [
+        {
+          "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+          "page": 18,
+          "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+          "retrieved_at": "2026-02-05"
+        }
+      ]
+    }
+  ],
+  "edges": [
+    {
+      "source_id": "disease:benh-than-man",
+      "target_id": "other:cac-bat-thuong-ve-cau-truc-hoac-chuc-nang-cua-than",
+      "relation": "HAS_DEFINITION",
+      "confidence": 10.0,
+      "evidence": "Bệnh thận mạn (BTM) đư ợc định nghĩa là các bất thường về cấu trúc hoặc chức năng của thận kéo dài trên 3 tháng do bất kỳ nguyên nhân nào dẫn tới những tác động về sức khỏe người bệnh.",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000000",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "other:cac-bat-thuong-ve-cau-truc-hoac-chuc-nang-cua-than",
+      "target_id": "disease:benh-than-man",
+      "relation": "HAS_DEFINITION",
+      "confidence": 10.0,
+      "evidence": "Bệnh thận mạn (BTM) đư ợc định nghĩa là các bất thường về cấu trúc hoặc chức năng của thận kéo dài trên 3 tháng do bất kỳ nguyên nhân nào dẫn tới những tác động về sức khỏe người bệnh.",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000000",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-ly-mach-mau-lon",
+      "target_id": "disease:benh-cau-than",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 8.0,
+      "evidence": "Bệnh lý mạch máu lớn (macroangiopathy diseases) Bệnh cầu thận",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-cau-than",
+      "target_id": "disease:benh-ly-mach-mau-lon",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 8.0,
+      "evidence": "Bệnh lý mạch máu lớn (macroangiopathy diseases) Bệnh cầu thận",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-ly-than",
+      "target_id": "disease:ung-thu",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 9.0,
+      "evidence": "bệnh lý thận trong ung thư",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ung-thu",
+      "target_id": "disease:benh-ly-than",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 9.0,
+      "evidence": "bệnh lý thận trong ung thư",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ton-thuong-than-cap",
+      "target_id": "disease:tu-vong",
+      "relation": "INCREASES_RISK",
+      "confidence": 9.0,
+      "evidence": "Tổn thương thận cấp (TTTC) và BTM làm tăng di chứng và tử vong",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:tu-vong",
+      "target_id": "disease:ton-thuong-than-cap",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 9.0,
+      "evidence": "Tổn thương thận cấp (TTTC) và BTM làm tăng di chứng và tử vong",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-ly-than",
+      "target_id": "symptom:roi-loan",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 8.0,
+      "evidence": "người bệnh ung thư có các rối loạn đặc trưng của",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "symptom:roi-loan",
+      "target_id": "disease:benh-ly-than",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 8.0,
+      "evidence": "người bệnh ung thư có các rối loạn đặc trưng của",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000001",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ung-thu",
+      "target_id": "disease:ton-thuong-than",
+      "relation": "CAUSES",
+      "confidence": 9.0,
+      "evidence": "Tổn thương thận trong ung thư thường là hỗn hợp thông qua nhiều cơ chế khác nhau.",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ton-thuong-than",
+      "target_id": "disease:ung-thu",
+      "relation": "CAUSED_BY",
+      "confidence": 9.0,
+      "evidence": "Tổn thương thận trong ung thư thường là hỗn hợp thông qua nhiều cơ chế khác nhau.",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ung-thu",
+      "target_id": "disease:benh-than",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 8.0,
+      "evidence": "người bệnh ung thư có các rối loạn đặc trưng của ung thư kèm các biểu hiện của bệnh thận",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-than",
+      "target_id": "disease:ung-thu",
+      "relation": "ASSOCIATED_WITH",
+      "confidence": 8.0,
+      "evidence": "người bệnh ung thư có các rối loạn đặc trưng của ung thư kèm các biểu hiện của bệnh thận",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "drug:thuoc-ieu-tri-ung-thu",
+      "target_id": "disease:benh-ly-than",
+      "relation": "CAUSES",
+      "confidence": 8.0,
+      "evidence": "Bảng 4. Một số bệnh lý thận do ung thư và thuốc điều trị ung thư",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-ly-than",
+      "target_id": "drug:thuoc-ieu-tri-ung-thu",
+      "relation": "CAUSED_BY",
+      "confidence": 8.0,
+      "evidence": "Bảng 4. Một số bệnh lý thận do ung thư và thuốc điều trị ung thư",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000002",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:leukemia",
+      "target_id": "disease:nhiem-khu-an",
+      "relation": "CAUSES",
+      "confidence": 8.0,
+      "evidence": "Leukemia TTTC do nhiễm khu ẩn",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:nhiem-khu-an",
+      "target_id": "disease:leukemia",
+      "relation": "CAUSED_BY",
+      "confidence": 8.0,
+      "evidence": "Leukemia TTTC do nhiễm khu ẩn",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:leukemia",
+      "target_id": "symptom:giam-the-tich",
+      "relation": "CAUSES",
+      "confidence": 8.0,
+      "evidence": "Leukemia TTTC do giảm thể tích",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "symptom:giam-the-tich",
+      "target_id": "disease:leukemia",
+      "relation": "CAUSED_BY",
+      "confidence": 8.0,
+      "evidence": "Leukemia TTTC do giảm thể tích",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:leukemia",
+      "target_id": "disease:ngo-oc-thuoc",
+      "relation": "CAUSES",
+      "confidence": 8.0,
+      "evidence": "Leukemia TTTC do ngộ độc thuốc",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ngo-oc-thuoc",
+      "target_id": "disease:leukemia",
+      "relation": "CAUSED_BY",
+      "confidence": 8.0,
+      "evidence": "Leukemia TTTC do ngộ độc thuốc",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 17,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0017_c000003",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:a-u-tuy-xuong",
+      "target_id": "disease:benh-th-an-do-a-u-t-uy-xuong",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Đa u tủy xương bệnh th ận do đa u t ủy xương",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-th-an-do-a-u-t-uy-xuong",
+      "target_id": "disease:a-u-tuy-xuong",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Đa u tủy xương bệnh th ận do đa u t ủy xương",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:amyloidosis",
+      "target_id": "disease:tttc-do-giam-the-tich",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Amyloidosis, bệnh l ắng đ ọng chuỗi nh ẹ (LCDD)",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:tttc-do-giam-the-tich",
+      "target_id": "disease:amyloidosis",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Amyloidosis, bệnh l ắng đ ọng chuỗi nh ẹ (LCDD)",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:h-oi-ch-ung-fanconi",
+      "target_id": "disease:tttc-do-tang-can-xi-mau",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "h ội ch ứng Fanconi, TTTC do tăng can xi máu",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:tttc-do-tang-can-xi-mau",
+      "target_id": "disease:h-oi-ch-ung-fanconi",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "h ội ch ứng Fanconi, TTTC do tăng can xi máu",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:vct-mang-tang-sinh-type-1",
+      "target_id": "disease:lymphoma-tttc-do-hoi-chung-tieu-khoi-u-va-giam-the-tich",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "VCT màng tăng sinh type 1 Lymphoma TTTC do hội chứng tiêu khối u và giảm thể tích",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:lymphoma-tttc-do-hoi-chung-tieu-khoi-u-va-giam-the-tich",
+      "target_id": "disease:vct-mang-tang-sinh-type-1",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "VCT màng tăng sinh type 1 Lymphoma TTTC do hội chứng tiêu khối u và giảm thể tích",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-u-ong-ti-et-ni-eu-do-t-ac-nghen",
+      "target_id": "disease:benh-ly-tham-nhiem",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Bệnh đư ờng ti ết ni ệu do t ắc nghẽn, bệnh lý thâm nhiễm",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-ly-tham-nhiem",
+      "target_id": "disease:benh-u-ong-ti-et-ni-eu-do-t-ac-nghen",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Bệnh đư ờng ti ết ni ệu do t ắc nghẽn, bệnh lý thâm nhiễm",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-than-t-on-th-uong-t-oi-thi-eu-hodgkin",
+      "target_id": "disease:vct-mang-tang-sinh-type-1-u-lympho-non-hodgkin",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "bệnh thận t ổn th ương t ối thi ểu (Hodgkin), VCT màng tăng sinh type 1 (u lympho non-Hodgkin)",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:vct-mang-tang-sinh-type-1-u-lympho-non-hodgkin",
+      "target_id": "disease:benh-than-t-on-th-uong-t-oi-thi-eu-hodgkin",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "bệnh thận t ổn th ương t ối thi ểu (Hodgkin), VCT màng tăng sinh type 1 (u lympho non-Hodgkin)",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ung-thu-t-e-bao-than",
+      "target_id": "disease:ngo-oc-thuoc-uc-ch-e-yeu-t-o-tang-tru-ong-n-oi-m-ach-anti-vegf",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Ung thư t ế bào thận Ngộ độc thuốc ức ch ế yếu t ố tăng trư ởng n ội m ạch (Anti VEGF)",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ngo-oc-thuoc-uc-ch-e-yeu-t-o-tang-tru-ong-n-oi-m-ach-anti-vegf",
+      "target_id": "disease:ung-thu-t-e-bao-than",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Ung thư t ế bào thận Ngộ độc thuốc ức ch ế yếu t ố tăng trư ởng n ội m ạch (Anti VEGF)",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-u-ong-ti-et-ni-eu-do-t-ac-nghen",
+      "target_id": "disease:benh-than-mang",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Bệnh đư ờng ti ết ni ệu do t ắc nghẽn, bệnh thận màng",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-than-mang",
+      "target_id": "disease:benh-u-ong-ti-et-ni-eu-do-t-ac-nghen",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Bệnh đư ờng ti ết ni ệu do t ắc nghẽn, bệnh thận màng",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ung-thu-ph-oi-au-co",
+      "target_id": "disease:ngo-oc-platinum",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Ung thư ph ổi, đầu cổ Ngộ độc Platinum",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ngo-oc-platinum",
+      "target_id": "disease:ung-thu-ph-oi-au-co",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Ung thư ph ổi, đầu cổ Ngộ độc Platinum",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:siadh",
+      "target_id": "disease:viem-cau-than-mang",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "SIADH, viêm cầu thận màng",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:viem-cau-than-mang",
+      "target_id": "disease:siadh",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "SIADH, viêm cầu thận màng",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:ung-thu-u",
+      "target_id": "disease:benh-th-an",
+      "relation": "CAUSES",
+      "confidence": 10.0,
+      "evidence": "Ung thư đư �",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    },
+    {
+      "source_id": "disease:benh-th-an",
+      "target_id": "disease:ung-thu-u",
+      "relation": "CAUSED_BY",
+      "confidence": 10.0,
+      "evidence": "Ung thư đư �",
+      "doc_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf",
+      "page": 18,
+      "chunk_id": "QD_ban_hanh_HD_chan_doan__dieu_tri_benh_than_man_va_mot_so_benh_ly_than__2024_08_12_f0584.pdf#p0018_c000004",
+      "retrieved_at": "2026-02-05"
+    }
+  ]
+}
