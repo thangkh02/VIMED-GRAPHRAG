@@ -174,3 +174,46 @@ def extract_medical_entities_simple(text: str) -> List[str]:
         entities.extend([m.strip() for m in matches])
     
     return list(set(entities))
+
+def validate_entity(entity, entity_type=None) -> bool:
+    """
+    Validate if entity is valid based on name length and type.
+    Handles both Entity object and (name, type) signature.
+    """
+    if hasattr(entity, 'name'):
+        name = entity.name
+        etype = entity.type
+    else:
+        name = entity
+        etype = entity_type
+
+    if not name or len(name) < 2:
+        return False
+        
+    # Common administrative terms to skip
+    admin_patterns = ['quyết định', 'văn bản', 'bộ y tế', 'trang ', 'điều ', 'khoản ', 'mục ', 'phụ lục', 'chương ']
+    name_lower = name.lower()
+    for pattern in admin_patterns:
+        if pattern in name_lower:
+            return False
+            
+    valid_types = {'DISEASE', 'DRUG', 'SYMPTOM', 'TEST', 'ANATOMY', 'TREATMENT', 'PROCEDURE', 'RISK_FACTOR', 'LAB_VALUE', 'UNKNOWN'}
+    if etype and etype.upper() not in valid_types:
+        return False
+    return True
+
+def validate_relation(relation) -> bool:
+    """Validate if relation is valid"""
+    if hasattr(relation, 'confidence_score') and relation.confidence_score is not None and relation.confidence_score < 6:
+        return False
+        
+    src = getattr(relation, 'source', getattr(relation, 'source_name', None))
+    tgt = getattr(relation, 'target', getattr(relation, 'target_name', None))
+    
+    if not src or not tgt: return False
+    
+    if len(src) < 2 or len(tgt) < 2:
+        return False
+    if normalize_medical_text(src) == normalize_medical_text(tgt):
+        return False
+    return True

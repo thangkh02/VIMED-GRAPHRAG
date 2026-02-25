@@ -16,3 +16,9 @@ wikipedia
 python-decouple
 langchain-groq
 python-dotenv
+pypdf
+tiktoken
+sentence-transformers
+langchain-huggingface
+torch
+transformers

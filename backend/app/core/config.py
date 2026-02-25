@@ -15,8 +15,13 @@ class Settings(BaseSettings):
     CHROMA_PERSIST_DIRECTORY: str = os.path.join(BASE_DIR, "chroma_amg")
     
     # Model Config
-    EMBEDDING_MODEL: str = "envvi/EnViEmbedding"
+    EMBEDDING_MODEL: str = "intfloat/multilingual-e5-small"
     LLM_MODEL: str = "llama-3.3-70b-versatile"
+
+    # NLI Verification Config (Self-MedRAG)
+    NLI_MODEL_NAME: str = "roberta-large-mnli"
+    NLI_SENTENCE_THRESHOLD: float = 0.5
+    NLI_PASSAGE_THRESHOLD: float = 0.7
     
     # Groq API Keys (Loaded dynamically)
     GROQ_API_KEYS: List[str] = []
