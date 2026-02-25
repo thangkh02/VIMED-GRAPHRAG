@@ -20,7 +20,29 @@ class ExtractionRequest(BaseModel):
 class ExtractionResponse(BaseModel):
     entities: List[EntityBase]
     relations: List[RelationBase]
-    
+
+
+class Entity(BaseModel):
+    """Entity schema used by GraphService for graph construction."""
+    name: str
+    type: str
+    description: Optional[str] = None
+    relevance_score: int = 5
+
+
+class Relation(BaseModel):
+    """Relation schema used by GraphService for graph construction."""
+    source_name: str
+    target_name: str
+    relation: str
+    confidence_score: int = 5
+    evidence: Optional[str] = None
+
+
+class SearchResult(BaseModel):
+    """Single search result item."""
+    content: str
+    score: float = 0.0
 class SearchRequest(BaseModel):
     query: str
     top_k: int = 5
